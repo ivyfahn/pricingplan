@@ -49,8 +49,15 @@ h1 {
     color: white;
 }
 
+
 .wrapper .card h2 {
-    margin-bottom: 15px;
+    margin-bottom: 3px;
+}
+
+.wrapper .card .price {
+    font-size: 30px;
+    color: white;
+    margin-top: 15px;
 }
 
 .wrapper .card button {
